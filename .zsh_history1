@@ -1,0 +1,524 @@
+: 1447095603:0;strings .zsh_history_bad .zsh_history
+: 1447095617:0;fc -R .zsh_history
+: 1447095632:0;zsh
+: 1447095643:0;rails s
+: 1447095664:0;gtrails && demo
+: 1447095666:0;ls
+: 1447095672:0;rails s
+: 1447095718:0;rails s | LESS
+: 1447095747:0;gtrails && demo
+: 1447095751:0;rails s
+: 1447095817:0;vim demo
+: 1447095828:0;/bin rake
+: 1447095842:0;rails s
+: 1447095964:0;bin/rake routes
+: 1447096024:0;install gimp
+: 1447096091:0;rails g controllers
+: 1447096102:0;rails g controller
+: 1447096189:0;cd
+: 1447096196:0;vz
+: 1447096213:0;vim .zshrc
+: 1447096295:0;ez
+: 1447096322:0;r generate controller
+: 1447096329:0;r generatezsh controller
+: 1447096331:0;zsh
+: 1447096337:0;r generate controller
+: 1447096370:0;r g controller articles
+: 1447096668:0;vim demo
+: 1447097017:0;vim app/views/articles/new.html.erb
+: 1447100047:0;cd .tmuxminator
+: 1447100048:0;ls
+: 1447100056:0;cd bin
+: 1447100057:0;ls
+: 1447100081:0;pf
+: 1447100098:0;ez
+: 1447100186:0;pf
+: 1447100189:0;zsh
+: 1447100191:0;pf
+: 1447100716:0;exec $SHELL
+: 1447100722:0;pf
+: 1447100834:0;vim
+: 1447100993:0;tnew rails
+: 1447101019:0;cd
+: 1447101062:0;rm -r .tmuxminator
+: 1447101084:0;sudo rm -r .tmuxminator
+: 1447101109:0;git clone https://github.com/tmuxinator/tmuxinator.git .tmuxinator
+: 1447101974:0;cd .tmuxinator
+: 1447101978:0;cd bin
+: 1447101980:0;vim
+: 1447101990:0;ls
+: 1447101998:0;vim tmuxinator
+: 1447102071:0;..
+: 1447102072:0;;s
+: 1447102073:0;ls
+: 1447102083:0;cd completion
+: 1447102085:0;ls
+: 1447102096:0;vim tmuxinator.zsh
+: 1447102127:0;install tmuxinator
+: 1447102155:0;gem install tmuxinator
+: 1447102175:0;ez
+: 1447102274:0;tmuxinator new rails
+: 1447102302:0;echo $EDITOR
+: 1447102341:0;ez
+: 1447102535:0;echo $EDITOR
+: 1447102541:0;zsh
+: 1447102626:0;echo $EDITOR
+: 1447102629:0;zsh
+: 1447102716:0;cd
+: 1447102720:0;cd .tmuxinator
+: 1447102729:0;vim completion
+: 1447102793:0;zsh
+: 1447102865:0;echo $EDITOR
+: 1447102916:0;tmuxinator new rails
+: 1447103204:0;mux start rails
+: 1447103476:0;cd 
+: 1447103487:0;vim .tmuxinator
+: 1447103963:0;mux start rails
+: 1447104055:0;gtrails
+: 1447104058:0;vim demo
+: 1447104068:0;gtrails $$ cd demo
+: 1447104074:0;gtrails
+: 1447104077:0;cd demo
+: 1447104085:0;gtrails 
+: 1447104088:0;cd demo
+: 1447104098:0;rails s
+: 1447104138:0;mux start rails
+: 1447104197:0;pkill guake
+: 1447104258:0;mux start rails
+: 1447104561:0;bundle install
+: 1447104629:0;vim demo
+: 1447104937:0;gem install bootstrap-sass
+: 1447105214:0;cd app/assets/stylesheets
+: 1447105230:0;mv application.css application.scss
+: 1447105254:0;vim demo
+: 1447105784:0;rails s
+: 1447128443:0;gtrails && demo && db
+: 1447128451:0;ls
+: 1447128460:0;sqlite3 test
+: 1447128791:0;sqlite development.sqlite3
+: 1447128953:0;open development.sqlite3
+: 1447131331:0;..
+: 1447131357:0;bin/rails g model Article title:string text:text
+: 1447131676:0;cd db 
+: 1447131678:0;ls
+: 1447131785:0;..
+: 1447131789:0;vim demo
+: 1447131940:0;bin/rake db:migrate
+: 1447131960:0;..
+: 1447131962:0;bin/rake db:migrate
+: 1447133576:0;cd app/views
+: 1447133841:0;cd
+: 1447133860:0;ls
+: 1447133865:0;ls -a
+: 1447133894:0;cd .vim
+: 1447133897:0;ls
+: 1447133905:0;cd bundle
+: 1447133906:0;ls
+: 1447133972:0;ls |less
+: 1447134566:0;ls
+: 1447134574:0;cd articles
+: 1447134577:0;ls
+: 1447134595:0;vim show.html.erb
+: 1447135885:0;mux start rails
+: 1447135893:0;tail -f log/development.log
+: 1447135893:0;server
+: 1447135893:0;exec rails s
+: 1447136150:0;l -a
+: 1447136161:0;cd
+: 1447136163:0;l -a
+: 1447136173:0;l -a | less
+: 1447136219:0;cd Virtual\ Machines
+: 1447136220:0;ls
+: 1447136228:0;l =a
+: 1447136231:0;l -a
+: 1447136296:0;du -s
+: 1447136303:0;du -sh
+: 1447136337:0;cd Mac\ OS\ X\ 10.8\ 64-bit\ \(2\)
+: 1447136343:0;du -sh
+: 1447136352:0;..
+: 1447136701:0;cd
+: 1447136706:0;git init
+: 1447136730:0;git remote add origin git@github.com:henrino3/vostro_01e_dots.git
+: 1447136749:0;vim .gitignore
+: 1447136859:0;tnew 1
+: 1447136874:0;ls
+: 1447136915:0;cd
+: 1447136941:0;mv gitignore .gitignore
+: 1447136949:0;vim .gitconfig
+: 1447137004:0;ls
+: 1447137012:0;vim .gitignore
+: 1447137216:0;git .config --global core.excludesfile ~/.gitignore_global
+: 1447137234:0;git config --global core.excludesfile ~/.gitignore_global
+: 1447137373:0;git status
+: 1447137375:0;ls
+: 1447137392:0;vim .gitconfig
+: 1447137425:0;ls
+: 1447137431:0;git status
+: 1447137440:0;git status | less
+: 1447137466:0;vim .gitconfig
+: 1447137486:0;vim .gitignore
+: 1447137724:0;git status
+: 1447137742:0;vim .gitignore
+: 1447137790:0;git status
+: 1447137798:0;git status | less
+: 1447137861:0;git add .*
+: 1447137923:0;git status
+: 1447137944:0;git add 
+: 1447137963:0;git add *.
+: 1447137977:0;git status
+: 1447137984:0;git add .
+: 1447138207:0;git add *
+: 1447138263:0;vim .gitignore
+: 1447138445:0;git add *
+: 1447138463:0;git status
+: 1447138547:0;echo "AndroidStudioProjects" >> .gitignore
+: 1447138550:0;git status
+: 1447138568:0;echo "Desktop" >> .gitignore
+: 1447138576:0;echo "Downloads" >> .gitignore
+: 1447138584:0;echo "Documents" >> .gitignore
+: 1447138598:0;echo "IdeaProjects" >> .gitignore
+: 1447138605:0;echo "Music" >> .gitignore
+: 1447138611:0;echo "Platform" >> .gitignore
+: 1447138631:0;echo "PlayOnLinux's virtual drives" >> .gitignore
+: 1447138641:0;echo "Videos" >> .gitignore
+: 1447138651:0;echo "Virtual Machines" >> .gitignore
+: 1447138665:0;echo "VirtualBox Vms" >> .gitignore
+: 1447138679:0;echo "eclipse" >> .gitignore
+: 1447138692:0;echo "genymotion" >> .gitignore
+: 1447138698:0;echo "tmp" >> .gitignore
+: 1447138710:0;echo "tor-browser_en-US" >> .gitignore
+: 1447138714:0;git status
+: 1447138743:0;echo "VirtualBox VMs" >> .gitignore
+: 1447138745:0;git status
+: 1447138783:0;git commit -m "Add all vostro config files"
+: 1447140738:0;mux start rails
+: 1447140745:0;exec rails s
+: 1447140745:0;tail -f log/development.log
+: 1447140745:0;server
+: 1447140757:0;guard
+: 1447140767:0;x
+: 1447140807:0;rails s
+: 1447140831:0;tnew a
+: 1447140847:0;cd
+: 1447140850:0;git status
+: 1447140870:0;git status | less
+: 1447140913:0;echo ".ICEauthority" >> .gitignore
+: 1447140931:0;echo ".PlayOnLinux" >> .gitignore
+: 1447140958:0;echo ".Xauthority" >> .gitignore
+: 1447140975:0;cd .android
+: 1447140977:0;ls
+: 1447140993:0;cd avd
+: 1447140994:0;ls
+: 1447141001:0;..
+: 1447141011:0;echo ".android" >> .gitignore
+: 1447141036:0;cd .cache
+: 1447141038:0;ls
+: 1447141048:0;..
+: 1447141057:0;echo ".cache" >> .gitignore
+: 1447141072:0;cd .config
+: 1447141073:0;ls
+: 1447141111:0;cd autostart
+: 1447141111:0;ls
+: 1447141117:0;..
+: 1447141126:0;cd hexchat
+: 1447141127:0;ls
+: 1447141137:0;..
+: 1447141146:0;cd Zeal
+: 1447141149:0;ls
+: 1447141159:0;..
+: 1447141162:0;cd sublime-text-3
+: 1447141163:0;ls
+: 1447141176:0;cd Installed\ Packages
+: 1447141177:0;ls
+: 1447141197:0;..
+: 1447141203:0;ls
+: 1447141264:0;echo ".gradle" >> .gitignore
+: 1447141298:0;echo ".conky-weather-icons" >> .gitignore
+: 1447141313:0;cd .gem
+: 1447141328:0;..
+: 1447141341:0;vim .gitignore
+: 1447141367:0;echo ".gradle" >> .gitignore
+: 1447141373:0;echo ".conky-weather-icons" >> .gitignore
+: 1447141393:0;echo ".irssi" >> .gitignore
+: 1447141401:0;cd .java
+: 1447141403:0;ls
+: 1447141407:0;..
+: 1447141409:0;cd ge,/
+: 1447141415:0;cd .gem/
+: 1447141417:0;ls
+: 1447141421:0;cd ruby
+: 1447141422:0;ls
+: 1447141428:0;..
+: 1447141443:0;echo".gem" >> .gitignore
+: 1447141452:0;echo ".gem" >> .gitignore
+: 1447141461:0;vim .gitignore
+: 1447141517:0;echo ".dbshell" >> .gitignore
+: 1447141524:0;echo ".dbus" >> .gitignore
+: 1447141532:0;echo ".dmrc" >> .gitignore
+: 1447141564:0;echo ".gksu.lock" >> .gitignore
+: 1447141571:0;cd .gnome
+: 1447141573:0;ls
+: 1447141581:0;echo ".gnome" >> .gitignore
+: 1447141591:0;echo ".gnupg" >> .gitignore
+: 1447141592:0;ls
+: 1447141625:0;..
+: 1447141632:0;echo ".gnome" >> .gitignore
+: 1447141639:0;echo ".gnupg" >> .gitignore
+: 1447141646:0;vim .gitignore
+: 1447141670:0;echo ".gstreamer-0.10" >> .gitignore
+: 1447141705:0;echo ".macromedia" >> .gitignore
+: 1447141725:0;echo ".mkshrc" >> .gitignore
+: 1447141739:0;cd .meteor
+: 1447141766:0;..
+: 1447141767:0;cd .meteor
+: 1447141769:0;ls
+: 1447141799:0;du -sh
+: 1447141813:0;cd ..
+: 1447141824:0;echo ".meteor" >> .gitignore
+: 1447141833:0;echo ".meteorsession" >> .gitignore
+: 1447141841:0;echo ".mozilla" >> .gitignore
+: 1447141851:0;echo ".mongorc.js" >> .gitignore
+: 1447141860:0;echo ".mysql_history" >> .gitignore
+: 1447141869:0;echo ".npm" >> .gitignore
+: 1447141873:0;echo ".nv" >> .gitignore
+: 1447141888:0;echo ".nvidia-settings-rc" >> .gitignore
+: 1447141897:0;cd .pki
+: 1447141899:0;ls
+: 1447141936:0;echo alias size="du -sh" >> .zshrc
+: 1447141942:0;zsh
+: 1447141950:0;size
+: 1447141957:0;ez
+: 1447142012:0;zsh
+: 1447142022:0;sz
+: 1447142027:0;..
+: 1447142033:0;ls
+: 1447142043:0;echo ".pki" >> .gitignore
+: 1447142096:0;cd .profile
+: 1447142107:0;vim .profile
+: 1447142127:0;git status | less
+: 1447142153:0;cd .gimp-2.8
+: 1447142154:0;sz
+: 1447142173:0;..
+: 1447142185:0;echo ".gemrc" >> .gitignore
+: 1447142194:0;echo ".gimp-2.8" >> .gitignore
+: 1447142219:0;echo ".psql_history" >> .gitignore
+: 1447142228:0;echo ".purple" >> .gitignore
+: 1447142262:0;echo ".thumbnails" >> .gitignore
+: 1447142290:0;cd .vmware
+: 1447142291:0;ls
+: 1447142293:0;sz
+: 1447142304:0;..
+: 1447142308:0;cd .wallch
+: 1447142309:0;ls
+: 1447142332:0;..
+: 1447142340:0;echo ".wallch" >> .gitignore
+: 1447142350:0;echo ".xchat2" >> .gitignore
+: 1447142360:0;echo ".xsession-errors" >> .gitignore
+: 1447142364:0;echo ".xsession-errors.old" >> .gitignore
+: 1447142372:0;echo ".zcompdump" >> .gitignore
+: 1447142379:0;echo ".zcompdump-Vostro-5.0.2" >> .gitignore
+: 1447143184:0;git status 
+: 1447143199:0;cd .AndroidStudio1.4
+: 1447143207:0;sz
+: 1447143210:0;ls
+: 1447143214:0;sz
+: 1447143232:0;cd .AndroidStudio1.4
+: 1447143233:0;sz
+: 1447143258:0;..
+: 1447143274:0;echo ".AndroidStudio1.4" >> .gitignore
+: 1447143286:0;sz
+: 1447143291:0;ls
+: 1447143297:0;..
+: 1447143299:0;ls
+: 1447143307:0;git status
+: 1447143316:0;cd .IdeaIC14
+: 1447143318:0;sz
+: 1447143325:0;ls
+: 1447143333:0;cd config
+: 1447143335:0;ls
+: 1447143337:0;sz
+: 1447143343:0;..
+: 1447143351:0;system
+: 1447143352:0;ls
+: 1447143368:0;..
+: 1447143382:0;echo ".IdeaIC14/system" >> .gitignore
+: 1447143403:0;cd .conky
+: 1447143404:0;ls
+: 1447143406:0;sz
+: 1447143413:0;..
+: 1447143417:0;cd .java
+: 1447143418:0;ls
+: 1447143420:0;sz
+: 1447143423:0;..
+: 1447143428:0;cd .local
+: 1447143429:0;ls
+: 1447143430:0;sz
+: 1447143448:0;..
+: 1447143457:0;echo ".local" >> .gitignore
+: 1447143468:0;cd .lua
+: 1447143470:0;ls
+: 1447143471:0;sz
+: 1447143473:0;..
+: 1447143490:0;cd .ssh
+: 1447143491:0;ls
+: 1447143492:0;sz
+: 1447143502:0;..
+: 1447143504:0;cd .wine
+: 1447143505:0;sz
+: 1447143510:0;..
+: 1447143520:0;echo ".wine" >> .gitignore
+: 1447143521:0;ls
+: 1447143541:0;git status
+: 1447143561:0;vim .gitignore
+: 1447143593:0;cd .Genymobile
+: 1447143594:0;ls
+: 1447143595:0;sz
+: 1447143627:0;..
+: 1447143636:0;echo ".Genymobile" >> .gitignore
+: 1447143637:0;ls
+: 1447143653:0;cd .fonts
+: 1447143657:0;ls
+: 1447143660:0;sz
+: 1447143693:0;..
+: 1447143709:0;cd .gconf
+: 1447143710:0;ls
+: 1447143711:0;sz
+: 1447143713:0;..
+: 1447143754:0;git add .
+: 1447143776:0;git status
+: 1447143887:0;git add *
+: 1447143905:0;git status
+: 1447144036:0;git "~/."
+: 1447144041:0;git add "~/."
+: 1447144047:0;git add "~/.*"
+: 1447144060:0;cd
+: 1447144084:0;cd .fontsgit add */.*
+: 1447144086:0;git add */.*
+: 1447144098:0;git status
+: 1447144107:0;git status | less
+: 1447144282:0;:q
+: 1447144425:0;gtrails
+: 1447144430:0;vim ext1.rb
+: 1447144506:0;gtrails
+: 1447144513:0;mkdir snips
+: 1447144523:0;cp ext1.rb snips
+: 1447145835:0;vim ext1.rb
+: 1447145936:0;ls
+: 1447145950:0;ruby ext1.rb file1.txt
+: 1447151532:0;mux start rails
+: 1447151544:0;server
+: 1447151544:0;exec rails s
+: 1447151554:0;guard
+: 1447160683:0;mux start rails
+: 1447160690:0;server
+: 1447160690:0;exec rails s
+: 1447160788:0;rails s
+: 1447161764:0;..
+: 1447161767:0;vim demo
+: 1447161966:0;..
+: 1447161968:0;ls
+: 1447161978:0;cd MEST/Tech
+: 1447161980:0;ls
+: 1447161992:0;cd libraries
+: 1447161993:0;ls
+: 1447162001:0;cd bootstrap-master
+: 1447162002:0;ls
+: 1447162023:0;cd docs
+: 1447162026:0;ls
+: 1447162035:0;cd examples
+: 1447162036:0;ls
+: 1447162058:0;jekyll
+: 1447162067:0;install jekyll
+: 1447162124:0;gem install rouge
+: 1447162155:0;gem install jekyll
+: 1447162190:0;ez
+: 1447162432:0;jekyll serve
+: 1447162490:0;gem install jekyll 
+: 1447162501:0;jekyll serve
+: 1447162536:0;zsh
+: 1447162548:0;jekyll serve
+: 1447162560:0;ez
+: 1447162657:0;gtbootstrap
+: 1447162660:0;zsh
+: 1447162670:0;gtbootstrap
+: 1447162682:0;jekyll serve
+: 1447162705:0;gtbootstrap
+: 1447162713:0;jekyll serve
+: 1447162718:0;rails s
+: 1447162797:0;ls
+: 1447162803:0;cd docs/examples
+: 1447162804:0;ls
+: 1447162892:0;vim starter-template
+: 1447163045:0;gtrails
+: 1447163049:0;cd demo
+: 1447163069:0;cd app/views/articles
+: 1447163082:0;vim index.html.erb
+: 1447163104:0;vim starter-template
+: 1447163282:0;subl starter-template
+: 1447163435:0;subl index.html.erb
+: 1447163476:0;vim index.html.erb
+: 1447164577:0;gem install pry
+: 1447164842:0;irb
+: 1447164858:0;pr
+: 1447164880:0;pry
+: 1447165265:0;vim index.html.erb
+: 1447165437:0;pkill pf
+: 1447165676:0;mux start rails
+: 1447165682:0;server
+: 1447165682:0;exec rails s
+: 1447165682:0;tail -f log/development.log
+: 1447166331:0;guard
+: 1447166522:0;pry
+: 1447166578:0;..
+: 1447166584:0;cd demo
+: 1447166595:0;..
+: 1447166597:0;vim ext1.rb
+: 1447166620:0;..
+: 1447166623:0;r ext1.rb
+: 1447166631:0;ruby ext1.rb
+: 1447166647:0;ls
+: 1447166749:0;rm show.html.erb
+: 1447166759:0;ls
+: 1447166770:0;rm new.html
+: 1447166792:0;ruby ext1.rb
+: 1447167049:0;ruby ext1.rb file
+: 1447167054:0;ruby ext1.rb file.txt
+: 1447167064:0;ruby ext1.rb file1.txt
+: 1447167221:0;cp ext1.rb snips
+: 1447167230:0;cd snips
+: 1447167230:0;ls
+: 1447167236:0;..
+: 1447167814:0;pry
+: 1447168415:0;ls
+: 1447168421:0;vim file1.txt
+: 1447168443:0;ls
+: 1447168451:0;vim file1.txt
+: 1447168521:0;ruby ext1.rb file1.txt file.txt 
+: 1447170494:0;docs.methods
+: 1447170508:0;doc.methods
+: 1447170514:0;docs.method
+: 1447170524:0;doc.method
+: 1447170526:0;doc.methods
+: 1447170535:0;doc.sum
+: 1447170543:0;exec $SHELL
+: 1447170549:0;doc.methods
+: 1447170554:0;doc.method
+: 1447170561:0;zsh
+: 1447170725:0;doc.methods
+: 1447170978:0;ls
+: 1447170990:0;vim class.erb
+: 1447172129:0;def add(a,b)
+: 1447172132:0;pry
+: 1447181246:0;mux start rails
+: 1447181253:0;exec rails s
+: 1447181253:0;server
+: 1447181253:0;guard
+: 1447181253:0;tail -f log/development.log
+: 1447181309:0;pry
+: 1447181341:0;..
+: 1447181344:0;vim ext1.rb
+: 1447181363:0;..
+: 1447181380:0;ruby ext1.rb file1.txt file.txt
+                                       : 1447190837:0;zsh
+: 1447190864:0;ls
+: 1447190900:0;mv .zsh_history .zsh_history1

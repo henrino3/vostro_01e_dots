@@ -1,0 +1,109 @@
+Getting page https://pypi.python.org/simple/pip/
+URLs to search for versions for pip in /usr/lib/python2.7/dist-packages:
+* https://pypi.python.org/simple/pip/
+Analyzing links from page https://pypi.python.org/simple/pip/
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-1.5.1-py2.py3-none-any.whl#md5=237164a09943d823b954bb9e1b2a8f67 (from https://pypi.python.org/simple/pip/), version: 1.5.1
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-1.5.2-py2.py3-none-any.whl#md5=445a893564065937c0f31ac2cc8e2f35 (from https://pypi.python.org/simple/pip/), version: 1.5.2
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-1.5.3-py2.py3-none-any.whl#md5=78126f6352f3d5f29d077be0aa7f9efa (from https://pypi.python.org/simple/pip/), version: 1.5.3
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-1.5.4-py2.py3-none-any.whl#md5=f20bc8f31e322375ce06b26d73ce7b4f (from https://pypi.python.org/simple/pip/), version: 1.5.4
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-1.5.5-py2.py3-none-any.whl#md5=03a932d6f82a3887d8de1cdb837c87ed (from https://pypi.python.org/simple/pip/), version: 1.5.5
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-1.5.6-py2.py3-none-any.whl#md5=4d4fb4b69df6731c7aeaadd6300bc1f2 (from https://pypi.python.org/simple/pip/), version: 1.5.6
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-6.0-py2.py3-none-any.whl#md5=cc846e237fb69f98883550663da1dbc3 (from https://pypi.python.org/simple/pip/), version: 6.0
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-6.0.1-py2.py3-none-any.whl#md5=c673ccf89f50b0f2f1adf625b3199dba (from https://pypi.python.org/simple/pip/), version: 6.0.1
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-6.0.2-py2.py3-none-any.whl#md5=26404d27a64a40d4c358a2405b16d043 (from https://pypi.python.org/simple/pip/), version: 6.0.2
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-6.0.3-py2.py3-none-any.whl#md5=1ac546485f75a8cf257a8f1a40aa51f5 (from https://pypi.python.org/simple/pip/), version: 6.0.3
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-6.0.4-py2.py3-none-any.whl#md5=0f654b22b335d01d15fdeb5f3291ecb5 (from https://pypi.python.org/simple/pip/), version: 6.0.4
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-6.0.5-py2.py3-none-any.whl#md5=1bd4c8c9d8d9a9a4434825a1e0b4bae6 (from https://pypi.python.org/simple/pip/), version: 6.0.5
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-6.0.6-py2.py3-none-any.whl#md5=0472d9dc76a0df6cc6ab545e40aef832 (from https://pypi.python.org/simple/pip/), version: 6.0.6
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-6.0.7-py2.py3-none-any.whl#md5=9a7ea5d89062613887b75e01e5d82c36 (from https://pypi.python.org/simple/pip/), version: 6.0.7
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-6.0.8-py2.py3-none-any.whl#md5=41e73fae2c86ba2270ff51c1d86f7e09 (from https://pypi.python.org/simple/pip/), version: 6.0.8
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-6.1.0-py2.py3-none-any.whl#md5=94faa2660c3a2ebe7d015d62c8726259 (from https://pypi.python.org/simple/pip/), version: 6.1.0
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-6.1.1-py2.py3-none-any.whl#md5=172eb5abab25a5e0f7a7b63c7a49378d (from https://pypi.python.org/simple/pip/), version: 6.1.1
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-7.0.0-py2.py3-none-any.whl#md5=c3d66bbb6a230538ac984a411567a322 (from https://pypi.python.org/simple/pip/), version: 7.0.0
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-7.0.1-py2.py3-none-any.whl#md5=9b403ba9b82d4a1e5fda5b6cc8952b57 (from https://pypi.python.org/simple/pip/), version: 7.0.1
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-7.0.2-py2.py3-none-any.whl#md5=b0a1ae13afdc4db03d8b9afd91cd21f8 (from https://pypi.python.org/simple/pip/), version: 7.0.2
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-7.0.3-py2.py3-none-any.whl#md5=6950e1d775fea7ea50af690f72589dbd (from https://pypi.python.org/simple/pip/), version: 7.0.3
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-7.1.0-py2.py3-none-any.whl#md5=b108384a762825ec20345bb9b5b7209f (from https://pypi.python.org/simple/pip/), version: 7.1.0
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-7.1.1-py2.py3-none-any.whl#md5=f7e937193b5a119d42736a0585293769 (from https://pypi.python.org/simple/pip/), version: 7.1.1
+  Found link https://pypi.python.org/packages/py2.py3/p/pip/pip-7.1.2-py2.py3-none-any.whl#md5=5ff9fec0be479e4e36df467556deed4d (from https://pypi.python.org/simple/pip/), version: 7.1.2
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.2.1.tar.gz#md5=d2af655c1a87e03799442d045c1d6743 (from https://pypi.python.org/simple/pip/), version: 0.2.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.2.tar.gz#md5=9eda07c8be7105aa774c7eb51c023294 (from https://pypi.python.org/simple/pip/), version: 0.2
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.3.1.tar.gz#md5=78102ddbb040a183dd361b5d432cdf88 (from https://pypi.python.org/simple/pip/), version: 0.3.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.3.tar.gz#md5=8fccb5b49c6377cbfb1949ccd7be43b3 (from https://pypi.python.org/simple/pip/), version: 0.3
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.4.tar.gz#md5=b45714d04f8fd38fe8e3d4c7600b91a2 (from https://pypi.python.org/simple/pip/), version: 0.4
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.5.1.tar.gz#md5=d4bdaa5f5f5bf8c6263ace75a0882232 (from https://pypi.python.org/simple/pip/), version: 0.5.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.5.tar.gz#md5=63eed8673e40628534cc0aa9c98e8f3d (from https://pypi.python.org/simple/pip/), version: 0.5
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.6.1.tar.gz#md5=7560e3055c66afb99ac4a7892389a237 (from https://pypi.python.org/simple/pip/), version: 0.6.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.6.2.tar.gz#md5=9a43e0a2ce8833069f41c347932bdb25 (from https://pypi.python.org/simple/pip/), version: 0.6.2
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.6.3.tar.gz#md5=0602fa9179cfaa98e41565d4a581d98c (from https://pypi.python.org/simple/pip/), version: 0.6.3
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.6.tar.gz#md5=083ff408ca5314cf0561ff79a048cd9a (from https://pypi.python.org/simple/pip/), version: 0.6
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.7.1.tar.gz#md5=420c83ad67bdcb542f772eb64392cce6 (from https://pypi.python.org/simple/pip/), version: 0.7.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.7.2.tar.gz#md5=cfe73090aaa0d3b0c104179a627859d1 (from https://pypi.python.org/simple/pip/), version: 0.7.2
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.7.tar.gz#md5=8d4b4f7266fe0808569182e6832d74ac (from https://pypi.python.org/simple/pip/), version: 0.7
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.8.1.tar.gz#md5=5d40614774781b118dd3f10c0d038cbc (from https://pypi.python.org/simple/pip/), version: 0.8.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.8.2.tar.gz#md5=df1eca0abe7643d92b5222240bed15f6 (from https://pypi.python.org/simple/pip/), version: 0.8.2
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.8.3.tar.gz#md5=0603337a81f83df2b1d2f1151565efac (from https://pypi.python.org/simple/pip/), version: 0.8.3
+  Found link https://pypi.python.org/packages/source/p/pip/pip-0.8.tar.gz#md5=468d9adc309f33ad51cee38f0d455429 (from https://pypi.python.org/simple/pip/), version: 0.8
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.0.1.tar.gz#md5=28dcc70225e5bf925532abc5b087a94b (from https://pypi.python.org/simple/pip/), version: 1.0.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.0.2.tar.gz#md5=47ec6ff3f6d962696fe08d4c8264ad49 (from https://pypi.python.org/simple/pip/), version: 1.0.2
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.0.tar.gz#md5=327fc4a03df189506966e15021730550 (from https://pypi.python.org/simple/pip/), version: 1.0
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.1.tar.gz#md5=62a9f08dd5dc69d76734568a6c040508 (from https://pypi.python.org/simple/pip/), version: 1.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.2.1.tar.gz#md5=db8a6d8a4564d3dc7f337ebed67b1a85 (from https://pypi.python.org/simple/pip/), version: 1.2.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.2.tar.gz#md5=99e44d1d7f88b182459e7c19c45aee9f (from https://pypi.python.org/simple/pip/), version: 1.2
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.3.1.tar.gz#md5=cbb27a191cebc58997c4da8513863153 (from https://pypi.python.org/simple/pip/), version: 1.3.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.3.tar.gz#md5=918559b784e2aca9559d498050bb86e7 (from https://pypi.python.org/simple/pip/), version: 1.3
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.4.1.tar.gz#md5=6afbb46aeb48abac658d4df742bff714 (from https://pypi.python.org/simple/pip/), version: 1.4.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.4.tar.gz#md5=ca790be30004937987767eac42cfa44a (from https://pypi.python.org/simple/pip/), version: 1.4
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.5.1.tar.gz#md5=4678c2ae5cce4e9234c3923d7dcb32f0 (from https://pypi.python.org/simple/pip/), version: 1.5.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.5.2.tar.gz#md5=5da30919f732d68b1c666e484e7676f5 (from https://pypi.python.org/simple/pip/), version: 1.5.2
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.5.3.tar.gz#md5=78871c5f84ea5fca61900347ce7864ad (from https://pypi.python.org/simple/pip/), version: 1.5.3
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.5.4.tar.gz#md5=834b2904f92d46aaa333267fb1c922bb (from https://pypi.python.org/simple/pip/), version: 1.5.4
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.5.5.tar.gz#md5=7520581ba0687dec1ce85bd15496537b (from https://pypi.python.org/simple/pip/), version: 1.5.5
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.5.6.tar.gz#md5=01026f87978932060cc86c1dc527903e (from https://pypi.python.org/simple/pip/), version: 1.5.6
+  Found link https://pypi.python.org/packages/source/p/pip/pip-1.5.tar.gz#md5=6969b8a8adc4c7f7c5eb1707118f0686 (from https://pypi.python.org/simple/pip/), version: 1.5
+  Found link https://pypi.python.org/packages/source/p/pip/pip-6.0.1.tar.gz#md5=dcee4aafd8a8538640926354c5cda025 (from https://pypi.python.org/simple/pip/), version: 6.0.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-6.0.2.tar.gz#md5=dd396e135b8abdd0097401cb8b66ea30 (from https://pypi.python.org/simple/pip/), version: 6.0.2
+  Found link https://pypi.python.org/packages/source/p/pip/pip-6.0.3.tar.gz#md5=1ca6788e57a176abbdf6d99d69f54ae0 (from https://pypi.python.org/simple/pip/), version: 6.0.3
+  Found link https://pypi.python.org/packages/source/p/pip/pip-6.0.4.tar.gz#md5=787ceae3419c8938f4c068814deff4d5 (from https://pypi.python.org/simple/pip/), version: 6.0.4
+  Found link https://pypi.python.org/packages/source/p/pip/pip-6.0.5.tar.gz#md5=b9c4607b294338870acca9ac45d528c4 (from https://pypi.python.org/simple/pip/), version: 6.0.5
+  Found link https://pypi.python.org/packages/source/p/pip/pip-6.0.6.tar.gz#md5=bbb17814bdf82187f46aaf9cec6b6caa (from https://pypi.python.org/simple/pip/), version: 6.0.6
+  Found link https://pypi.python.org/packages/source/p/pip/pip-6.0.7.tar.gz#md5=26fa8f4c0f9a78c6c96ccfbcf34f5c31 (from https://pypi.python.org/simple/pip/), version: 6.0.7
+  Found link https://pypi.python.org/packages/source/p/pip/pip-6.0.8.tar.gz#md5=2332e6f97e75ded3bddde0ced01dbda3 (from https://pypi.python.org/simple/pip/), version: 6.0.8
+  Found link https://pypi.python.org/packages/source/p/pip/pip-6.0.tar.gz#md5=fec85e88648bd2763668a419f7e2afef (from https://pypi.python.org/simple/pip/), version: 6.0
+  Found link https://pypi.python.org/packages/source/p/pip/pip-6.1.0.tar.gz#md5=d0c349765bbc23743cec42b37bd8a281 (from https://pypi.python.org/simple/pip/), version: 6.1.0
+  Found link https://pypi.python.org/packages/source/p/pip/pip-6.1.1.tar.gz#md5=6b19e0a934d982a5a4b798e957cb6d45 (from https://pypi.python.org/simple/pip/), version: 6.1.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-7.0.0.tar.gz#md5=22d829cc0fab1d829f9374d67ad10c2a (from https://pypi.python.org/simple/pip/), version: 7.0.0
+  Found link https://pypi.python.org/packages/source/p/pip/pip-7.0.1.tar.gz#md5=5627bb807cf3d898a2eba276685537aa (from https://pypi.python.org/simple/pip/), version: 7.0.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-7.0.2.tar.gz#md5=f01ba398ebf3aad2d0a4e05194dfdfbf (from https://pypi.python.org/simple/pip/), version: 7.0.2
+  Found link https://pypi.python.org/packages/source/p/pip/pip-7.0.3.tar.gz#md5=54cbf5ae000fb3af3367345f5d299d1c (from https://pypi.python.org/simple/pip/), version: 7.0.3
+  Found link https://pypi.python.org/packages/source/p/pip/pip-7.1.0.tar.gz#md5=d935ee9146074b1d3f26c5f0acfd120e (from https://pypi.python.org/simple/pip/), version: 7.1.0
+  Found link https://pypi.python.org/packages/source/p/pip/pip-7.1.1.tar.gz#md5=9c30c61ca871f72465d882728ca24d93 (from https://pypi.python.org/simple/pip/), version: 7.1.1
+  Found link https://pypi.python.org/packages/source/p/pip/pip-7.1.2.tar.gz#md5=3823d2343d9f3aaab21cf9c917710196 (from https://pypi.python.org/simple/pip/), version: 7.1.2
+Using version 7.1.2 (newest of versions: 7.1.2, 7.1.2, 7.1.1, 7.1.1, 7.1.0, 7.1.0, 7.0.3, 7.0.3, 7.0.2, 7.0.2, 7.0.1, 7.0.1, 7.0.0, 7.0.0, 6.1.1, 6.1.1, 6.1.0, 6.1.0, 6.0.8, 6.0.8, 6.0.7, 6.0.7, 6.0.6, 6.0.6, 6.0.5, 6.0.5, 6.0.4, 6.0.4, 6.0.3, 6.0.3, 6.0.2, 6.0.2, 6.0.1, 6.0.1, 6.0, 6.0, 1.5.6, 1.5.6, 1.5.5, 1.5.5, 1.5.4, 1.5.4, 1.5.4, 1.5.3, 1.5.3, 1.5.2, 1.5.2, 1.5.1, 1.5.1, 1.5, 1.4.1, 1.4, 1.3.1, 1.3, 1.2.1, 1.2, 1.1, 1.0.2, 1.0.1, 1.0, 0.8.3, 0.8.2, 0.8.1, 0.8, 0.7.2, 0.7.1, 0.7, 0.6.3, 0.6.2, 0.6.1, 0.6, 0.5.1, 0.5, 0.4, 0.3.1, 0.3, 0.2.1, 0.2)
+Downloading/unpacking pip from https://pypi.python.org/packages/py2.py3/p/pip/pip-7.1.2-py2.py3-none-any.whl#md5=5ff9fec0be479e4e36df467556deed4d
+  Downloading from URL https://pypi.python.org/packages/py2.py3/p/pip/pip-7.1.2-py2.py3-none-any.whl#md5=5ff9fec0be479e4e36df467556deed4d
+Installing collected packages: pip
+  Found existing installation: pip 1.5.4
+    Not uninstalling pip at /usr/lib/python2.7/dist-packages, owned by OS
+  Can't roll back pip; was not uninstalled
+Cleaning up...
+  Removing temporary dir /tmp/pip_build_henry...
+Exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pip/basecommand.py", line 122, in main
+    status = self.run(options, args)
+  File "/usr/lib/python2.7/dist-packages/pip/commands/install.py", line 283, in run
+    requirement_set.install(install_options, global_options, root=options.root_path)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 1436, in install
+    requirement.install(install_options, global_options, *args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 672, in install
+    self.move_wheel_files(self.source_dir, root=root)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 902, in move_wheel_files
+    pycompile=self.pycompile,
+  File "/usr/lib/python2.7/dist-packages/pip/wheel.py", line 206, in move_wheel_files
+    clobber(source, lib_dir, True)
+  File "/usr/lib/python2.7/dist-packages/pip/wheel.py", line 193, in clobber
+    os.makedirs(destsubdir)
+  File "/usr/lib/python2.7/os.py", line 157, in makedirs
+    mkdir(name, mode)
+OSError: [Errno 13] Permission denied: '/usr/local/lib/python2.7/dist-packages/pip'

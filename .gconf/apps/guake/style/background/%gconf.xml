@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="image" mtime="1447577698" type="string">
+		<stringvalue>/home/henry/Pictures/tback.png</stringvalue>
+	</entry>
+	<entry name="transparency" mtime="1447577696" type="int" value="76"/>
+</gconf>

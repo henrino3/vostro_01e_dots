@@ -1,0 +1,10 @@
+
+	email = henrino3@gmail.com
+	name = Henry
+[color]
+	ui = true
+[user]
+	name = Henry Mascot
+	email = henrino3@gmail.com
+[push]
+	default = matching

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<VMwareUserExperienceProgram version="1.0">
+  <HostUUID>52 f9 20 fd 21 05 ef 8f-75 8d f7 e7 36 8b 57 0f</HostUUID>
+  <VMwareProductName>VMware Player</VMwareProductName>
+  <VMwareProductVersion>12.0.0 S</VMwareProductVersion>
+  <VMwareProductBuild>2985596</VMwareProductBuild>
+  <VMwareLicense>None</VMwareLicense>
+  <HostOS>Linux</HostOS>
+  <HostArch>x86_64</HostArch>
+  <HostVersion>Linux 3.16.0-50-generic elementary OS Freya</HostVersion>
+  <HostLocale>en_US.UTF-8</HostLocale>
+  <AppLocale>en</AppLocale>
+</VMwareUserExperienceProgram>

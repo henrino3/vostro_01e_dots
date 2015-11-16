@@ -1,0 +1,290 @@
+: 1447062140:0;ls
+: 1447062418:0;install tmux
+: 1447062430:0;sudo apt-get install tmux
+: 1447062468:0;ls
+: 1447062472:0;l -h
+: 1447062501:0;vim tmux.conf
+: 1447062513:0;vim .tmux.conf
+: 1447062714:0;tmux new -s tilda
+: 1447062740:0;tmux new -s one
+: 1447062775:0;ls
+: 1447062788:0;vim .tmux.conf
+: 1447062986:0;ls
+: 1447063107:0;LS
+: 1447063130:0;ls
+: 1447063177:0;tmux
+: 1447063184:0;ls 
+: 1447063200:0;tmux
+: 1447063252:0;tmux ls
+: 1447063304:0;tmux attach -t tilda
+: 1447063452:0;vim
+: 1447063620:0;vimtutor
+: 1447063671:0;..
+: 1447063678:0;~
+: 1447063700:0;vim .zshrc
+: 1447063769:0;exec $SHELL
+: 1447064976:0;ls
+: 1447064996:0;..
+: 1447065245:0;cd 
+: 1447065250:0;ls 
+: 1447065253:0;l -
+: 1447065256:0;l -h
+: 1447065374:0;sudo apt-get install python-pip
+: 1447065445:0;pip install -U pip
+: 1447065472:0;sudo pip install -U pip
+: 1447065496:0;pip install --user git+git://github.com/Lokaltog/powerline
+: 1447065561:0;vim
+: 1447065574:0;vim .vimrc
+: 1447065597:0;vim .vim/vimrc.local
+: 1447065650:0;vim
+: 1447066101:0;wget https://github.com/powerline/powerline/raw/develop/font/PowerlineSymbols.otf
+: 1447066120:0;wget https://github.com/powerline/powerline/raw/develop/font/10-powerline-symbols.conf
+: 1447066150:0;mv PowerlineSymbols.otf ~/.fonts
+: 1447066169:0;fc-cache -vf ~/.fonts
+: 1447066294:0;mkdir -p ~/.config/fontconfig/fonts.conf
+: 1447066297:0;ls
+: 1447066640:0;sudo mv 10-powerline-symbols.conf ~/etc/conf.d
+: 1447066659:0;sudo mv 10-powerline-symbols.conf ~/etc/fonts/conf.d
+: 1447066675:0;sudo mv 10-powerline-symbols.conf /etc/fonts/conf.d
+: 1447066687:0;vim
+: 1447066745:0;antigen bundle zsh-users/zsh-syntax-highlighting
+: 1447066772:0;antigen
+: 1447066818:0;ls
+: 1447066880:0;vim -version
+: 1447066980:0;tmux list
+: 1447067006:0;..
+: 1447067008:0;.
+: 1447067023:0;vim .bashrc
+: 1447067104:0;ls
+: 1447067107:0;cd
+: 1447067131:0;vim .zshrc
+: 1447067185:0;subl .zshrc
+: 1447067212:0;gtrails
+: 1447067260:0;rbenv -v
+: 1447067371:0;tmux
+: 1447067393:0;gtrails
+: 1447067403:0;ls
+: 1447067413:0;ls | LESS
+: 1447067420:0;l
+: 1447067444:0;cd simple_cms
+: 1447067453:0;..
+: 1447067460:0;vim simple_cms
+: 1447067607:0;tmux --help
+: 1447067623:0;tmux commands
+: 1447067627:0;tmux --commands
+: 1447067630:0;tmux -commands
+: 1447067874:0;cd dotfiles
+: 1447067876:0;ls
+: 1447067900:0;vim .git/config
+: 1447068058:0;tmux -l
+: 1447068065:0;tmux ls
+: 1447068513:0;gtrails
+: 1447068521:0;cd simple_cms
+: 1447068528:0;serverails
+: 1447068772:0;ls
+: 1447068784:0;cd dotfiles
+: 1447068786:0;ls
+: 1447068806:0;git remote -v
+: 1447069017:0;git remote set-url origin http://github.com/henrino3/dotfiles.git
+: 1447069020:0;git remote -v
+: 1447069048:0;git status
+: 1447069061:0;git add .
+: 1447069102:0;git commit -m "customize zshrc"
+: 1447069109:0;git push origin master
+: 1447069564:0;cd
+: 1447069575:0;vim .zshrc 
+: 1447069633:0;$SHELL
+: 1447069637:0;LS
+: 1447069646:0;zsh
+: 1447069651:0;quit
+: 1447069661:0;ls
+: 1447069690:0;gtrails
+: 1447069724:0;vim .zshrc 
+: 1447069744:0;zsh
+: 1447069749:0;quit
+: 1447069756:0;gtrails
+: 1447069764:0;ls
+: 1447069793:0;vim .zshrc 
+: 1447069803:0;cd
+: 1447069811:0;vim .zshrc 
+: 1447069871:0;ls
+: 1447069878:0;zsh
+: 1447069881:0;ls
+: 1447069884:0;gtrails
+: 1447069892:0;cd 
+: 1447069896:0;ls
+: 1447069927:0;~
+: 1447069933:0;cd Do
+: 1447069940:0;cd Documents
+: 1447069943:0;ls
+: 1447069949:0;cd ME
+: 1447069960:0;cd MEST
+: 1447070022:0;vim .zshrc 
+: 1447070046:0;cd
+: 1447070047:0;vim .zshrc 
+: 1447070195:0;tmux attach -t tilda
+: 1447070379:0;tmux kill-session -t tilda
+: 1447070387:0;tmux -l
+: 1447070402:0;ls
+: 1447070415:0;vimtutor
+: 1447070424:0;cd 
+: 1447070427:0;gtrails
+: 1447070430:0;cd
+: 1447070436:0;vim .zshrc
+: 1447070489:0;zsh
+: 1447070494:0;clear
+: 1447070495:0;ls
+: 1447070505:0;gtrails
+: 1447070562:0;ls
+: 1447070570:0;gtrails
+: 1447070571:0;ls
+: 1447070575:0;git status
+: 1447070579:0;git add .
+: 1447070598:0;git add . -A
+: 1447070613:0;git commit -m "Update rails projects"
+: 1447070621:0;git push origin master
+: 1447070646:0;git remote -v
+: 1447070727:0;git remote set-url git@github.com:henrino3/Rails.git
+: 1447070798:0;tmux -s tilda
+: 1447070815:0;tmux attach -t tilda
+: 1447070840:0;tmux -t tilda
+: 1447070845:0;tmux tilda
+: 1447070943:0;install lynx
+: 1447070983:0;cd ~/Documents/ME
+: 1447071023:0;cd ~/Documents/MEST/Biz/Books/
+: 1447071024:0;ls
+: 1447071030:0;c.
+: 1447071051:0;cd Tech/Books/cheatsheats
+: 1447071052:0;ls
+: 1447071083:0;_lynx tmux\ shortcuts\ \&\ cheatsheet.html
+: 1447071090:0;lynx -v
+: 1447071098:0;lynx tmux\ shortcuts\ \&\ cheatsheet.html
+: 1447071158:0;tmux new tilda
+: 1447071165:0;lynx tmux\ shortcuts\ \&\ cheatsheet.html
+: 1447071181:0;tmux new -s tilda
+: 1447071203:0;gtrails
+: 1447071205:0;ls
+: 1447071220:0;cd
+: 1447071255:0;vim .zsh_history | grep remote
+: 1447071267:0;ls
+: 1447071274:0;vim .zsh_history 
+: 1447071308:0;git remote set-url origin git@github.com:henrino3/Rails.git
+: 1447071312:0;git remote -v
+: 1447071354:0;tmux ls
+: 1447071438:0;lynx http://localhost:3000
+: 1447071450:0;cd 
+: 1447071456:0;vim .zshrc
+: 1447071635:0;lynx local
+: 1447071644:0;vim .zshrc
+: 1447071694:0;lynx localhost
+: 1447071700:0;lynx localr
+: 1447071714:0;zsh
+: 1447071725:0;lynx localr
+: 1447071735:0;vim .zshrc
+: 1447071777:0;lynx localhost:3000
+: 1447071929:0;lynx localhost:3000/demo
+: 1447072079:0;lynx localhost:3000/demo/index
+: 1447072150:0;gtrails && cd simple_cms
+: 1447072154:0;railss
+: 1447072156:0;rails s
+: 1447072176:0;lynx localhost:3000/demo/index
+: 1447072292:0;gtrails && cd simple_cms
+: 1447072322:0;rails g controller index test
+: 1447072342:0;vim simple_cms
+: 1447074696:0;tmux ls
+: 1447074701:0;tmux -ls
+: 1447074705:0;tmux ls
+: 1447079156:0;cd ~/Documents/MEST/Tech
+: 1447079157:0;ls
+: 1447079169:0;cd Books/cheatsheats
+: 1447079184:0;lynx tmux\ shortcuts\ \&\ cheatsheet.html
+: 1447079203:0;tmux new -s tilda
+: 1447079248:0;vimtutor
+: 1447079298:0;gtrails
+: 1447079307:0;ls
+: 1447079539:0;rm Lorem\ ipsum\ dolor\ sit\ amet,\ consectetur\ adipisicing\ elit.\ Velit\ dolore\ atque\ quia\ at\ quos\ consectetur,\ obcaecati,\ nemo\ quaerat\ similique\ rerum,\ magni\ distinctio\ adipisci\ sapiente\ nobis\ minima\ earum\ laborum\ sit\ veniam.
+: 1447079540:0;ls
+: 1447079572:0;cd simpleblog
+: 1447079577:0;rails s
+: 1447079599:0;..
+: 1447079619:0;rm simpleblog/, wellspring
+: 1447079626:0;ls
+: 1447079630:0;rm simpleblog/
+: 1447079655:0;sudo rm -y simpleblog
+: 1447079664:0;sudo rm -f simpleblog
+: 1447079670:0;ls
+: 1447079677:0;rm --help
+: 1447079730:0;rmdir simpleblog
+: 1447079759:0;rm -R simpleblog
+: 1447079771:0;rm -R -f simpleblog
+: 1447079775:0;ls
+: 1447079808:0;rails new demo
+: 1447079824:0;cd demo
+: 1447079884:0;tmux new -s cassie
+: 1447079899:0;..
+: 1447079904:0;vim demo
+: 1447080162:0;bundle install
+: 1447080215:0;gtrails && cd demo
+: 1447080220:0;rails s
+: 1447080236:0;lynx localhost:3000
+: 1447080264:0;rails controllers
+: 1447080289:0;rails generate controller
+: 1447080500:0;rails generate conreoller
+: 1447080689:0;rails g controller welcome index
+: 1447080796:0;vim demo
+: 1447081320:0;git status
+: 1447081326:0;git add .
+: 1447081375:0;git commit -m "Remove Simple blog and wellspring directory \n Add demo project directory"
+: 1447081383:0;git push origin master
+: 1447084401:0;tmux -ls
+: 1447084404:0;tmux ls
+: 1447084426:0;tmux new -s tilda
+: 1447084632:0;gtrails
+: 1447084639:0;cd demo
+: 1447084677:0;rails s
+: 1447084764:0;gtrails
+: 1447084803:0;vim demo
+: 1447084936:0;tmux new -s hilda
+: 1447084958:0;vimtutor
+: 1447089832:0;tmux new -s tilda
+: 1447089887:0;gtrails
+: 1447089891:0;cd demo
+: 1447089896:0;rails s
+: 1447089935:0;gtrails
+: 1447089961:0;gtrails && vim demo
+: 1447090052:0;tmux new -s hilda
+: 1447090070:0;vimtutor
+: 1447092533:0;gtrails && vim demo
+: 1447092555:0;bin/rake routes
+: 1447092569:0;cd demo
+: 1447092573:0;bin/rake routes
+: 1447092687:0;ls
+: 1447092727:0;gtrails
+: 1447092729:0;ls
+: 1447092735:0;vim demo
+: 1447094079:0;install wemux
+: 1447094211:0;cd
+: 1447094221:0;vim .zshrc
+: 1447094515:0;cd .bin
+: 1447094520:0;ls
+: 1447094527:0;ls -h
+: 1447094535:0;ls -a
+                                                                      : 1447094900:0;cd
+: 1447094917:0;vim .zsh_history
+: 1447094931:0;ls
+: 1447094962:0;mv -r tmuxinator .tmuxminator
+: 1447094967:0;mv -R tmuxinator .tmuxminator
+: 1447094984:0;mv -R tmuxinator/ .tmuxminator/
+: 1447094992:0;mv tmuxinator/ .tmuxminator/
+: 1447094997:0;ls
+: 1447095007:0;cd .tmuxminator
+: 1447095009:0;lps
+: 1447095011:0;ls
+: 1447095036:0;tnew Rails
+: 1447095228:0;gtrails && cd demo
+: 1447095234:0;rails s
+: 1447095248:0;gtrails
+: 1447095265:0;vim demo
+: 1447095462:0;gtrails
+: 1447095552:0;cd
+: 1447095575:0;mv .zsh_history .zsh_history_bad

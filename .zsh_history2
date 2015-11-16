@@ -1,0 +1,1083 @@
+: 1447191071:0;strings .zsh_history1 .zsh_history
+: 1447191079:0;zsh
+: 1447191082:0;ls
+: 1447191115:0;vim clipboard.txt
+: 1447191331:0;mux start rails
+: 1447191339:0;exec rails s
+: 1447191339:0;tail -f log/development.log
+: 1447191339:0;server
+: 1447192073:0;pkill chromium
+: 1447192414:0;..
+: 1447192419:0;vim ext1.rb
+: 1447192443:0;guard
+: 1447192485:0;..
+: 1447192496:0;ruby ext1.rb file1.txt
+: 1447196021:0;strings ext1.rb snips/ext1.rb
+: 1447196031:0;vim snips/ext1.rb
+: 1447196080:0;pry
+: 1447198044:0;cd
+: 1447198052:0;vim clipboard.txt
+: 1447223635:0;mux start rails
+: 1447223644:0;server
+: 1447223644:0;exec rails s
+: 1447223648:0;_guard
+: 1447223843:0;cd 
+: 1447223854:0;ls *.yml
+: 1447223865:0;cd .tmuxinator
+: 1447223868:0;ls *.yml
+: 1447223872:0;vim rails.yml
+: 1447223644:0;tail -f log/development.log
+: 1447226580:0;mux start rails
+: 1447226586:0;exec rails s
+: 1447226586:0;server
+: 1447226631:0;guard
+: 1447232825:0;pry
+: 1447233145:0;ls
+: 1447233170:0;file.txt << "hello"\
+quit
+: 1447233805:0;mux start rails
+: 1447233825:0;server
+: 1447233825:0;exec rails s
+: 1447233825:0;guard
+: 1447236501:0;vim ext1.rb
+: 1447237008:0;pry
+: 1447239309:0;mux start rails
+: 1447239330:0;exec rails s
+: 1447239331:0;guard
+: 1447239331:0;server
+: 1447239390:0;pry
+: 1447247930:0;install adobe-flashplugin
+: 1447247954:0;install flashplugin
+: 1447247968:0;install flashplugin-installer
+: 1447248878:0;..
+: 1447248887:0;cd
+: 1447248892:0;cd Downloads
+: 1447248903:0;gdebi scratch_1.4.0.6-dfsg1-5-ubuntu12.04.1_all.deb
+: 1447248958:0;ez
+: 1447249005:0;sudo gdebi scratch_1.4.0.6-dfsg1-5-ubuntu12.04.1_all.deb
+: 1447249434:0;cd
+: 1447249446:0;git clone git://github.com/zolrath/wemux.git /usr/local/share/wemux
+: 1447249458:0;sudo git clone git://github.com/zolrath/wemux.git /usr/local/share/wemux
+: 1447249722:0;ln -s /usr/local/share/wemux/wemux /usr/local/bin/wemux
+: 1447249728:0;sudo ln -s /usr/local/share/wemux/wemux /usr/local/bin/wemux
+: 1447249741:0;cp /usr/local/share/wemux/wemux.conf.example /usr/local/etc/wemux.conf
+: 1447249746:0;sudo cp /usr/local/share/wemux/wemux.conf.example /usr/local/etc/wemux.conf
+: 1447249780:0;vim /usr/local/etc/wemux.conf
+: 1447250118:0;cd
+: 1447250128:0;sudo chmod /tmp/wemux-wemux to 1777 
+: 1447250137:0;wemux start
+: 1447250142:0;sudo chmod /tmp/wemux-wemux to 1777 
+: 1447250150:0;chmod /tmp/wemux-wemux to 1777 
+: 1447250762:0;mux start rails
+: 1447250768:0;server
+: 1447250768:0;exec rails s
+: 1447250773:0;guard
+: 1447250805:0;ez
+: 1447250808:0;cd
+: 1447250864:0;vim .tmuxinator
+: 1447250920:0;pry
+: 1447251741:0;ms rails
+: 1447251762:0;exec rails s
+: 1447251956:0;pry
+: 1447265385:0;ms rails
+: 1447265402:0;exec rails s
+: 1447267594:0;mkdir lrdhw
+: 1447267604:0;vim ext25.rb
+: 1447267947:0;ls
+: 1447267956:0;cd lrdw
+: 1447267971:0;rm lrdw
+: 1447267976:0;cd lrdhw
+: 1447267979:0;ls
+: 1447267985:0;..
+: 1447267991:0;ls
+: 1447267996:0;..
+: 1447267997:0;ls
+: 1447268007:0;cd RubyonRails
+: 1447268009:0;ls
+: 1447268012:0;cd lrdhw
+: 1447268023:0;subl ex25.rb
+: 1447268077:0;pry
+: 1447268092:0;cd lrdhw
+: 1447268095:0;pry
+: 1447268134:0;ls
+: 1447270844:0;ms rails
+: 1447270849:0;exec rails s
+: 1447272228:0;cd lrdhw
+: 1447272231:0;pry
+: 1447272595:0;cd lrdhw
+: 1447272609:0;subl ex26.rb
+: 1447272644:0;vim ex26.rb
+: 1447290042:0;ms rails
+: 1447290054:0;exec rails s
+: 1447291080:0;ms rails
+: 1447291101:0;subl ex38.rb
+: 1447291393:0;pry
+: 1447308921:0;ms rails
+: 1447308930:0;exec rails s
+: 1447308930:0;pry
+: 1447309201:0;cd lrdhw
+: 1447309212:0;subl ex39_test.rb
+: 1447313326:0;ms rails
+: 1447313333:0;exec rails s
+: 1447314106:0;cd lrdhw
+: 1447314119:0;subl mystuff.rb
+: 1447314132:0;pry
+: 1447314145:0;..
+: 1447314150:0;cd li
+: 1447314160:0;cd lr
+: 1447314170:0;cd ME
+: 1447314178:0;cd MEST
+: 1447314189:0;GTRAILS
+: 1447314199:0;gtrails
+: 1447314203:0;..
+: 1447314217:0;gtrails
+: 1447314224:0;cd lrdhw
+: 1447314231:0;pry
+: 1447317023:0;ms rails
+: 1447317031:0;exec rails s
+: 1447317206:0;vim lrdhw
+: 1447317254:0;cd lrdhw
+: 1447317258:0;pry
+: 1447322863:0;ms rails
+: 1447322870:0;exec rails s
+: 1447323096:0;cd lrdhw
+: 1447323103:0;pry
+: 1447323575:0;cd lrdhw
+: 1447323584:0;vim ex40.rb
+: 1447325391:0;ruby ex40.rb
+: 1447325409:0;pry
+: 1447326513:0;ms rails
+: 1447326519:0;exec rails s
+: 1447327293:0;cd lrdhw
+: 1447327297:0;pry
+: 1447327532:0;cd lrdhw
+: 1447327534:0;ls
+: 1447327548:0;vim ex40.rb
+: 1447328270:0;cd lrdhw
+: 1447328278:0;ruby ex40.rb
+: 1447328831:0;pry
+: 1447332717:0;ms rails
+: 1447332725:0;exec rails s
+: 1447332729:0;cd lrdhw
+: 1447332749:0;pry
+: 1447332778:0;vim ex41.rb
+: 1447333245:0;ruby ex41.rb
+: 1447333511:0;vim ex41.rb
+: 1447333518:0;ruby ex41.rb
+: 1447335932:0;ms rails
+: 1447335953:0;exec rails s
+: 1447338317:0;ls
+: 1447338328:0;cd snips
+: 1447338382:0;vim election.rb
+: 1447339501:0;cd snips
+: 1447339502:0;ls
+: 1447339514:0;ruby election.rb
+: 1447339577:0;ls
+: 1447339578:0;ruby election.rb
+: 1447342644:0;pry
+: 1447342694:0;ls
+: 1447342698:0;pry
+: 1447344490:0;tnew 1
+: 1447344504:0;gtrails
+: 1447344508:0;cd snips
+: 1447344513:0;vim election.rb
+: 1447344525:0;gtrails && cd snips
+: 1447344684:0;pry
+: 1447350002:0;vim election.rb
+: 1447350087:0;ls
+: 1447350101:0;cp election.rb bak_election.rb
+: 1447354872:0;pkill chromium
+: 1447361669:0;ms rails
+: 1447361679:0;exec rails s
+: 1447364167:0;cd snips 
+: 1447364172:0;vim election.rb
+: 1447396590:0;ms rails
+: 1447396611:0;exec rails s
+: 1447397179:0;cd lrdhw
+: 1447397270:0;subl election_main.rb
+: 1447402411:0;ms rails
+: 1447402419:0;exec rails s
+: 1447402424:0;ls
+: 1447402431:0;cd snips
+: 1447402467:0;mkdir projects
+: 1447402472:0;cd projects
+: 1447402490:0;mkdir skeletons
+: 1447402494:0;cd skeletons
+: 1447402553:0;mkdir bin data doc ext lib test lib/NAME
+: 1447402582:0;touch bin/NAME
+: 1447402605:0;touch lib/NAME.rb
+: 1447402719:0;subl NAME.gemspec
+: 1447402803:0;subl Rakefile
+: 1447403746:0;subl tests/test_NAME.rb
+: 1447403749:0;ls
+: 1447403759:0;mv testtests
+: 1447403763:0;mv test tests
+: 1447403767:0;subl tests/test_NAME.rb
+: 1447403770:0;lw
+: 1447403772:0;ls
+: 1447403782:0;dir
+: 1447403815:0;ls -R
+: 1447403941:0;rake test
+: 1447404013:0;wz
+: 1447404015:0;ez
+: 1447404081:0;cd
+: 1447404105:0;chmod 773 .rbenv
+: 1447404109:0;sudo chmod 773 .rbenv
+: 1447404122:0;ls -la
+: 1447404263:0;rake test
+: 1447404510:0;chmod go-w /home/henry/.rbenv/versions/2.2.3
+: 1447404517:0;sudo chmod go-w /home/henry/.rbenv/versions/2.2.3
+: 1447404523:0;rake test
+: 1447404540:0;chmod go-w /home/henry/.rbenv/versions
+: 1447404547:0;sudo chmod go-w /home/henry/.rbenv/versions
+: 1447404557:0;rake test
+: 1447404565:0;sudo chmod go-w /home/henry/.rbenv/
+: 1447404576:0;rake test
+: 1447404596:0;sudo chmod go-w /home/henry/
+: 1447404599:0;rake test
+: 1447404626:0;sudo chmod go-w /home/henry/.rbenv/libexec
+: 1447404632:0;rake test
+: 1447404650:0;sudo chmod go-w /home/henry/.rbenv/plugins/ruby-build/bin
+: 1447404656:0;rake test
+: 1447404672:0;sudo chmod go-w /home/henry/.rbenv/plugins/ruby-build
+: 1447404678:0;rake test
+: 1447404687:0;sudo chmod go-w /home/henry/.rbenv/plugins
+: 1447404696:0;rake test
+: 1447404702:0;sudo chmod go-w /home/henry/.rbenv/shims
+: 1447404710:0;rake test
+: 1447404714:0;sudo chmod go-w /home/henry/.rbenv/bin
+: 1447404720:0;rake test
+: 1447404735:0;ls -la
+: 1447404742:0;ls -la : less
+: 1447404747:0;ls -la :less
+: 1447404752:0;ls -la :LESS
+: 1447404764:0;ls -la |less
+: 1447405074:0;cd .rbenv
+: 1447405075:0;ls
+: 1447405087:0;sudo ls
+: 1447405092:0;cd bin
+: 1447405094:0;ls
+: 1447405124:0;..
+: 1447405137:0;cd versions
+: 1447405138:0;ls
+: 1447405144:0;cd 2.2.3/
+: 1447405145:0;ls
+: 1447405148:0;cd bin
+: 1447405150:0;ls
+: 1447405170:0;vim ruby
+: 1447405258:0;ls -la
+: 1447405333:0;sudo mv ruby ruby.orig
+: 1447405343:0;sudo subl ruby
+: 1447405369:0;rake test
+: 1447405438:0;mv ruby ruby-error
+: 1447405459:0;mv ruby.orig ruby
+: 1447405467:0;rake test
+: 1447405820:0;rake tests/test
+: 1447405828:0;rake test
+: 1447407540:0;ls
+: 1447407555:0;subl README
+: 1447413682:0;gem install sinatra
+: 1447421807:0;ms rails
+: 1447421815:0;exec rails s
+: 1447423460:0;pkill firefox
+: 1447429588:0;rails scalfold
+: 1447429596:0;rails scalfold | less
+: 1447429640:0;rails scaffold | less
+: 1447431057:0;ms rails
+: 1447431065:0;exec rails s
+: 1447431829:0;tail
+: 1447431840:0;no
+: 1447431842:0;yes
+: 1447431876:0;echo "hello"
+: 1447431884:0;echo "hello
+: 1447432682:0;ls
+: 1447432688:0;vim README.md
+: 1447432726:0;vim sonnets.txt
+: 1447432795:0;grep rose sonnets.txt
+: 1447432819:0;grep rose sonnets.txt | wc
+: 1447434338:0;ls
+: 1447434354:0;cd demo
+: 1447434369:0;..
+: 1447434372:0;vim demo
+: 1447434401:0;cd demo
+: 1447434414:0;rails s
+: 1447434999:0;git remote -v
+: 1447436883:0;cd demo
+: 1447436893:0;git init
+: 1447436905:0;git add -A
+: 1447436920:0;git status
+: 1447436951:0;git commit -m "Initialize directory"
+: 1447436980:0;git config --global user.email"henriino3@gmail.com\
+\
+"
+: 1447436986:0;git config --global user.email"henriino3@gmail.com"
+: 1447437021:0;git config --global user.name "Henry Mascot"
+: 1447437028:0;git commit -m "Initialize directory"
+: 1447438518:0;git config --global user.email "henrino3@gmail.com"
+: 1447438524:0;git config --global user.name "Your Name"
+: 1447438533:0;git config --global user.name "Henry Mascot"
+: 1447438538:0;git commit -m "Initialize directory"
+: 1447438557:0;git log
+: 1447438655:0;cat ~/.ssh/id_rsa.pub
+: 1447438701:0;strings ~/.ssh/id_rsa.pub key.txt
+: 1447438729:0;strings keys.txt ~/.ssh/id_rsa.pub
+: 1447438736:0;strings ~/.ssh/id_rsa.pub >> key.txt
+: 1447438742:0;vim key.txt
+: 1447438947:0;subl key.txt
+: 1447438991:0;xclip
+: 1447439179:0;git remote add origin git@bitbucket.org:henrymascot/hello_app.git
+: 1447439761:0;echo "Henry Mascot" >> contributors.txt
+: 1447439767:0;git add contributors.txt
+: 1447439775:0;git commit -m 'Initial commit with contributors'
+: 1447439781:0;git push -u origin master
+: 1447446844:0;ms RAILS
+: 1447446857:0;ms rails
+: 1447446866:0;exec rails s
+: 1447447024:0;vim demo
+: 1447447056:0;cd demo
+: 1447447060:0;rails s
+: 1447447066:0;cd demo
+: 1447447079:0;git commit -m 'Initial commit with contributors'
+: 1447447091:0;git push -u origin master
+: 1447447153:0;subl
+: 1447447981:0;ssh -vT git@bitbucket.com
+: 1447448270:0;cd
+: 1447448294:0;chmod go-w ~/
+: 1447448303:0;chmod 700 ~/.ssh
+: 1447448333:0;git push -u origin master
+: 1447448386:0;git remote -v
+: 1447448391:0;cd
+: 1447448395:0;git remote -v
+: 1447448412:0;cd 
+: 1447448428:0;gtrails 
+: 1447448430:0;cd demo
+: 1447448433:0;git remote -v
+: 1447448443:0;git push -u origin master
+: 1447448480:0;git push -u origin master | text.txt
+: 1447448490:0;git push -u origin master text.txt
+: 1447448497:0;git push -u origin master >> text.txt
+: 1447448511:0;git push -u origin master | cat >> text.txt
+: 1447448528:0;cat text.txt
+: 1447448584:0;cd
+: 1447448592:0;sudo chown -R Henry ~/.ssh/
+: 1447448598:0;ls -r
+: 1447448608:0;ls -LR
+: 1447448621:0;ls -a
+: 1447448625:0;ls -r
+: 1447448630:0;ls -la
+: 1447448639:0;ls -la | less
+: 1447448660:0;sudo chown -R henry ~/.ssh/
+: 1447448678:0;gtrails && cd demo
+: 1447448688:0;git push -u origin master
+: 1447448751:0;dir ~/.ssh/
+: 1447449141:0;..
+: 1447449151:0;git remote -v
+: 1447449175:0;git status
+: 1447449188:0;git add -A
+: 1447449194:0;git status
+: 1447449211:0;git commit -m "Initialize Demo Prooject"
+: 1447449231:0;git push origin master
+: 1447449276:0;git --config alias gpom = "git push origin master"
+: 1447449287:0;cd demo
+: 1447449359:0;cat ~/.ssh/id_rsa.pub
+: 1447449453:0;cat ~/.ssh/id_rsa.pub > text.txt
+: 1447449458:0;vim text.txt
+: 1447449598:0;cat ~/.ssh/id_rsa.pub | pbcopy
+: 1447449611:0;subl te
+: 1447449620:0;subl text.txt
+: 1447449665:0;ez
+: 1447449708:0;zsh
+: 1447449715:0;gpom
+: 1447449802:0;git checkout -b modify-README
+: 1447449814:0;git branch
+: 1447449838:0;ls
+: 1447449865:0;mv README.rdoc README.md
+: 1447449876:0;git status
+: 1447449932:0;git commit -a -m "Improving the README file"
+: 1447449998:0;git merge modify-README 
+: 1447450017:0;git checkout master
+: 1447450020:0;git merge modify-README 
+: 1447450049:0;git branck -d modify-README
+: 1447450057:0;git branch -d modify-README
+: 1447450145:0;git checkout modify-README
+: 1447450154:0;git reflog
+: 1447450193:0;git branch modify-README âƒ´‚98ac13a
+: 1447450199:0;git branch modify-README 98ac13a
+: 1447450209:0;git branch
+: 1447450281:0;git push
+: 1447450555:0;git config --global push.default matching
+: 1447451176:0;bundle install --without production
+: 1447451282:0;git commit -a -m "Update Gem.ock for Heroku"
+: 1447451303:0;heroku version
+: 1447451365:0;install heroku
+: 1447451496:0;cd
+: 1447451512:0;cd tmp
+: 1447451516:0;wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+: 1447451922:0;heroku login
+: 1447452571:0;heroku create
+: 1447452653:0;git push heroku master
+: 1447453056:0;heroku rename rails-hello-app
+: 1447453088:0;heroku rename rails-hello-appp
+: 1447453340:0;..
+: 1447453341:0;ls
+: 1447453358:0;mkdir toy_app
+: 1447453382:0;cd
+: 1447453418:0;..
+: 1447453421:0;cd toy_app
+: 1447453442:0;..
+: 1447453448:0;rm toy_app
+: 1447453461:0;rails new toy_app
+: 1447453471:0;rails new toy_app | less
+: 1447453507:0;ls
+: 1447453511:0;cd toy_app
+: 1447453515:0;ls
+: 1447453539:0;rails s
+: 1447453560:0;cd toy_app
+: 1447453561:0;ls
+: 1447453568:0;vim toy_app
+: 1447490693:0;ms rails
+: 1447490710:0;exec rails s
+: 1447490823:0;cd demo
+: 1447490839:0;rails s
+: 1447491520:0;..
+: 1447491525:0;vim demo
+: 1447491549:0;cd ..
+: 1447491668:0;cd debian-tor
+: 1447491676:0;ls
+: 1447491688:0;gtrails
+: 1447491695:0;cd toy_app
+: 1447491699:0;..	
+: 1447491701:0;cd toy_app
+: 1447491737:0;.. && cd toy_app
+: 1447491740:0;rails s
+: 1447491749:0;..
+: 1447491751:0;vim toy_app
+: 1447491860:0;bundle install --without production
+: 1447491883:0;git init
+: 1447491893:0;git add -A
+: 1447491897:0;git commit -m "Initialize repository"
+: 1447492016:0;git remote add origin git@bitbucket.org:henrymascot/toy_app.git
+: 1447492020:0;git push
+: 1447492039:0;echo "Henry Mascot" >> contributors.txt
+: 1447492048:0;git add contributors.txt
+: 1447492062:0;git commit -m 'Initial commit with contributors'
+: 1447492068:0;git push -u origin master
+: 1447492131:0;git push -u origin --all
+: 1447492169:0;git commit -am "Add Hello"
+: 1447492188:0;heroku create
+: 1447492205:0;git remote -v
+: 1447492231:0;git push heroku master
+: 1447496230:0;gcc -v
+: 1447496291:0;..
+: 1447496297:0;mkdir C
+: 1447496315:0;vim hello.c
+: 1447496443:0;ls
+: 1447496450:0;cd C
+: 1447496478:0;gcc -o hello hello.c
+: 1447496483:0;ls
+: 1447496501:0;..
+: 1447496507:0;mv hello.c C
+: 1447496510:0;cd C
+: 1447496512:0;la
+: 1447496514:0;ls
+: 1447496520:0;gcc -o hello hello.c
+: 1447496574:0;gcc -o hello hello.c studio.h
+: 1447496655:0;install build-essential
+: 1447496678:0;gcc hello.c -o hello
+: 1447496703:0;gcc hello.c -o hello > error.txt
+: 1447496707:0;ls
+: 1447496713:0;cat error.txt
+: 1447496727:0;gcc hello.c -o hello >> error.txt
+: 1447496736:0;cat error.txt
+: 1447496796:0;gcc hello.c -o hello | tee error.txt
+: 1447496843:0;cat error.txt
+: 1447496860:0;gcc hello.c -o hello 2> error.txt
+: 1447496867:0;cat error.txt
+: 1447496873:0;subl error.txt q
+: 1447504302:0;rails generate scaffold User name:string email:string 
+: 1447504326:0;vim toy_app
+: 1447504468:0;bundle exec rake db:migrate
+: 1447504630:0;bundle exec rake -T
+: 1447504644:0;bundle exec rake -T | less
+: 1447504890:0;bundle exec rake -T db| less
+: 1447505170:0;bundle install -without-production
+: 1447505177:0;bundle install --without-production
+: 1447505195:0;bundle install -help
+: 1447505201:0;bundle install --help
+: 1447505421:0;bundle install --without production
+: 1447505794:0;cp Gemfile ./
+: 1447505803:0;cp Gemfile ../
+: 1447505812:0;dir ../
+: 1447505846:0;bundle install --without production
+: 1447505901:0;vim toy_app
+: 1447505931:0;rails s
+: 1447508067:0;rails g scaffold Micropost content:text user_id:integer 
+: 1447508226:0;bundle exec rake db:migrate
+: 1447509203:0;rails s
+: 1447509951:0;rails console
+: 1447511023:0;git status
+: 1447511031:0;git add -A
+: 1447511058:0;git commit -am "Finish \
+Toy App"
+: 1447511064:0;git push
+: 1447511088:0;git push heroku
+: 1447511205:0;git remote -v
+: 1447511253:0;heroku run db:migrate
+: 1447511273:0;heroku run rake db:migrate
+: 1447512082:0;heroku rename micropost_app
+: 1447512572:0;heroku rename micropost_appp
+: 1447513066:0;heroku -help
+: 1447513075:0;heroku help
+: 1447513081:0;heroku help | less
+: 1447513149:0;heroku status
+: 1447513174:0;heroku --help
+: 1447513181:0;heroku --help 
+: 1447513199:0;heroku --help | tee herokoHelp.txt
+: 1447513222:0;cat herokoHelp.txt
+: 1447513230:0;subl herokoHelp.txt
+: 1447513331:0;heroku rename micropost-appp
+: 1447521555:0;ms rails
+: 1447521582:0;exec rails s
+: 1447522028:0;pkill chromium
+: 1447526151:0;ms rails
+: 1447526159:0;exec rails s
+: 1447526174:0;..
+: 1447526175:0;ls
+: 1447526191:0;mkdir Mobile
+: 1447526204:0;mkdir pgFW7
+: 1447526208:0;cd pgFW7
+: 1447526220:0;git clone git@github.com:nolimits4web/Framework7.git
+: 1447526354:0;ls
+: 1447526356:0;cd Framework7
+: 1447526358:0;ls
+: 1447526364:0;git remote -v
+: 1447526381:0;rm -rf .git
+: 1447526387:0;git remote -v
+: 1447526405:0;ls
+: 1447526592:0;npm install
+: 1447526815:0;..
+: 1447526823:0;cd Mobile
+: 1447530596:0;ms rails
+: 1447530606:0;exec rails s
+: 1447530609:0;..
+: 1447530622:0;cd Mobile/\\
+: 1447577731:0;quit
+: 1447530630:0;cd Mobile
+: 1447530631:0;ls
+: 1447530645:0;..
+: 1447530646:0;ls
+: 1447530661:0;mv pgFW7 Mobile
+: 1447530667:0;cd Mobile
+: 1447530668:0;ls
+: 1447530675:0;cd pgFW7
+: 1447530677:0;ls
+: 1447530680:0;cd Framework7
+: 1447530688:0;ls
+: 1447530708:0;npm install gulp
+: 1447531176:0;gulp build && gulp server
+: 1447531229:0;npm install -g gulp
+: 1447531485:0;gulp build && gulp server
+: 1447531505:0;ls
+: 1447531514:0;..
+: 1447531521:0;rm -rf Framework7
+: 1447531529:0;sudo rm -rf Framework7
+: 1447531532:0;ls
+: 1447531558:0;git clone https://github.com/nolimits4web/Framework7.git
+: 1447531836:0;..
+: 1447531842:0;cd Mobile
+: 1447531845:0;ls
+: 1447531855:0;sudo npm install -g ionic
+: 1447531964:0;cd Framework7
+: 1447531982:0;npm install
+: 1447532228:0;gulp build && gulp server
+: 1447532337:0;ln -s /usr/bin/nodejs /usr/bin/node
+: 1447532345:0;sudo ln -s /usr/bin/nodejs /usr/bin/node
+: 1447532354:0;gulp build && gulp server
+: 1447532613:0;ls
+: 1447532624:0;..
+: 1447532629:0;git init
+: 1447532747:0;git remote add origin git@github.com:henrino3/pgFW7.git
+: 1447533422:0;install nodejs
+: 1447533443:0;nodejs --version
+: 1447534170:0;cordova create control-mobile
+: 1447534204:0;sudo npm install -g cordova
+: 1447534999:0;cordova create control-mobile
+: 1447535025:0;ls
+: 1447535031:0;cd control-mobile
+: 1447535031:0;ls
+: 1447535036:0;cd www
+: 1447535037:0;ls
+: 1447535043:0;rm *
+: 1447535047:0;ls
+: 1447535052:0;..
+: 1447535067:0;cd Framework7
+: 1447535068:0;ls
+: 1447535074:0;dir examples
+: 1447535095:0;dir kitchen-sink-ios
+: 1447535152:0;cp * ../control-mobile/www/
+: 1447535168:0;dir ../control-mobile/www
+: 1447535184:0;rm  ../control-mobile/www/*
+: 1447535197:0;cd kitchen-sink-ios
+: 1447535205:0;cp * ../control-mobile/www/
+: 1447535225:0;cp * ../../control-mobile/www/
+: 1447535243:0;cp -rf * ../../control-mobile/www/
+: 1447535254:0;dir ../../control-mobile/www/
+: 1447535277:0;..
+: 1447535281:0;cd control-mobile
+: 1447535283:0;cd www
+: 1447535284:0;ls
+: 1447535301:0;chromium index.html
+: 1447535317:0;vim index.html
+: 1447535409:0;..
+: 1447535411:0;ls
+: 1447535417:0;cd build
+: 1447535419:0;ls
+: 1447535492:0;cp -rf * ../../control-mobile/www/
+: 1447535550:0;vim grid.html
+: 1447535572:0;subl index.html
+: 1447535622:0;..
+: 1447535627:0;cd kitchen-sink-ios
+: 1447535638:0;cp -rf * ../../control-mobile/www/
+: 1447535791:0;..
+: 1447535794:0;vim config.xml
+: 1447536233:0;cordova platforms add ios
+: 1447536277:0;cordova platforms add android
+: 1447536428:0;git status
+: 1447536505:0;git init
+: 1447536519:0;git remote add origin git@github.com:henrino3/control-mobile.git
+: 1447536525:0;git add -A
+: 1447536564:0;git commit-m "Initializing Project"
+: 1447536569:0;git commit -m "Initializing Project"
+: 1447536578:0;git push origin master 
+: 1447536650:0;gem install rails_apps_composer
+: 1447536715:0;rbenv hash
+: 1447536719:0;rbenv rehash
+: 1447536745:0;ez
+: 1447536781:0;sudo chmod -R a+rwx ~/.rbenv
+: 1447536939:0;git clone https://github.com/RailsApps/rails-composer.git
+: 1447537045:0;ls
+: 1447537054:0;cd rails-composer
+: 1447537057:0;ls
+: 1447537072:0;vim README.textile
+: 1447537110:0;vim railsComposer.sh
+: 1447537294:0;mv railsComposer.sh rc.sh
+: 1447537312:0;./rc.sh newapp
+: 1447537326:0;ls
+: 1447537335:0;cd newapp
+: 1447537339:0;ls
+: 1447537342:0;..
+: 1447537346:0;rm newapp
+: 1447537358:0;vim rc.sh
+: 1447537397:0;cp rc.sh ../
+: 1447537400:0;..
+: 1447537401:0;ls
+: 1447537416:0;./rc.sh newapp
+: 1447537445:0;rm newapp
+: 1447537451:0;vim rc.sh
+: 1447537543:0;./rc.sh newapp
+: 1447537565:0;rm newapp
+: 1447537572:0;./rc.sh newapp | less
+: 1447537622:0;rm newapp && ./rc.sh newapp 2> error.txt
+: 1447537631:0;cat error.txt
+: 1447537642:0;ls
+: 1447537662:0;vim rc.sh
+: 1447537700:0;cd rails-composer
+: 1447537702:0;ls
+: 1447537707:0;cd files
+: 1447537741:0;..
+: 1447537749:0;cd RubyonRails
+: 1447537751:0;ls
+: 1447537798:0;cp rails-composer/composer.rb ../
+: 1447537804:0;vim rc.sh
+: 1447537881:0;./rc.sh newapp
+: 1447537893:0;rm -f newapp
+: 1447537903:0;./rc.sh newapp
+: 1447538274:0;rm newapp
+: 1447538315:0;rm -fr newapp
+: 1447538338:0;git pull origin master
+: 1447538377:0;git push origin master
+: 1447554968:0;..
+: 1447554978:0;cd M
+: 1447554985:0;cd MEST
+: 1447554995:0;cd Tech
+: 1447555649:0;npm install angular@1.4.7
+: 1447555964:0;..
+: 1447555976:0;mkdir Angular
+: 1447555989:0;cp Mobile/
+: 1447556005:0;cp Mobile/Ionic/index.html
+: 1447556018:0;cp Mobile/Ionic/index.html /Angular
+: 1447556030:0;ls
+: 1447556051:0;vim AngJS/ls
+: 1447556059:0;vim AngJS
+: 1447556621:0;cd Angular
+: 1447556622:0;ls
+: 1447556638:0;vim app.js
+: 1447560704:0;npm install -g jshint
+: 1447561904:0;..
+: 1447561915:0;cd Angular 
+: 1447561992:0;wget <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
+: 1447562028:0;wget https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js > angular.min.js
+: 1447562034:0;cat angular.min.js
+: 1447563312:0;vim app.js
+: 1447566092:0;ls
+: 1447566138:0;coffee --compile --output app.coffee cofapp.js
+: 1447566175:0;touch cofapp.js
+: 1447566177:0;coffee --compile --output app.coffee cofapp.js
+: 1447566189:0;cat cofapp.js
+: 1447566210:0;mv app.coffee cofapp.coffee
+: 1447566219:0;coffee cofapp.coffee
+: 1447577717:0;ms rails
+: 1447577731:0;exec rails s
+: 1447578306:0;..
+: 1447578313:0;ls
+: 1447578321:0;cd Angular
+: 1447578377:0;vim 1.coffee
+: 1447578591:0;cat 1.js
+: 1447578608:0;cat 1.coffee
+: 1447580241:0;vim 1.js
+: 1447581227:0;.. && cd Android
+: 1447581232:0;..
+: 1447581239:0;cd Documents
+: 1447581243:0;cd Android
+: 1447581248:0;node
+: 1447581269:0;node 1.js
+: 1447581288:0;node 1.coffee
+: 1447581335:0;node 1.js
+: 1447582626:0;.. 
+: 1447582629:0;cd RubyonRails
+: 1447582645:0;./sh.rc sample_app
+: 1447582649:0;ls
+: 1447582664:0;./rc.sh sample_app
+: 1447582707:0;cd RubyonRails
+: 1447582708:0;ls
+: 1447582719:0;cd rails-composer
+: 1447582720:0;ls
+: 1447582728:0;vim composer.rb
+: 1447582787:0;subl composer.rb
+: 1447583959:0;cd sample_app
+: 1447583992:0;rvm install ruby-2.2.3
+: 1447584023:0;..
+: 1447584026:0;cd sample_app
+: 1447584031:0;vim Gemfile
+: 1447584406:0;bundle install --without production
+: 1447584460:0;ls
+: 1447585178:0;git checkout master
+: 1447585184:0;git branch
+: 1447585201:0;git push
+: 1447585234:0;ls
+: 1447585248:0;vim config.ru
+: 1447585299:0;sudo rvm install ruby-2.2.3
+: 1447585312:0;rvm list
+: 1447585336:0;vim Gemfile
+: 1447585349:0;rails s
+: 1447585466:0;cd sample_app
+: 1447585492:0;rails s
+: 1447585527:0;gem env
+: 1447585536:0;gem env | less
+: 1447585582:0;rvm help
+: 1447585609:0;rvm list
+: 1447585633:0;rvm use ruby-2.2.3
+: 1447585640:0;rvm list
+: 1447585661:0;rvm alias create default ruby-2.2.3
+: 1447585665:0;rvm list
+: 1447585675:0;rails s
+: 1447585698:0;vim Gemfile
+: 1447585735:0;ez
+: 1447585859:0;zsh
+: 1447585967:0;ls
+: 1447585986:0;cd 
+: 1447585993:0;cd .tmux
+: 1447586011:0;cd .tmuxinator/completion
+: 1447586013:0;ls
+: 1447586124:0;gem install --no-wrappers tmuxinator
+: 1447586165:0;zsh
+: 1447586260:0;ls
+: 1447586264:0;rails s
+: 1447586278:0;..
+: 1447586283:0;cd demo
+: 1447586286:0;rails s
+: 1447586302:0;rbenv --help
+: 1447586307:0;rbenv help
+: 1447586325:0;zsh
+: 1447586338:0;rbenv --help
+: 1447586348:0;rbenv rehash
+: 1447586353:0;rbenv --help | less
+: 1447586393:0;rbenv version
+: 1447586401:0;rails s
+: 1447586473:0;rbenv default
+: 1447586478:0;rbenv commands
+: 1447586495:0;rbenv global
+: 1447586541:0;rails s 2> error.txt
+: 1447586548:0;subl error.txt
+: 1447586707:0;rails s 2> error.txt
+: 1447586865:0;gem install rails
+: 1447586940:0;zsh
+: 1447586947:0;rails s
+: 1447586978:0;ez
+: 1447587107:0;gem install railties
+: 1447587149:0;ez
+: 1447587217:0;zsh
+: 1447587268:0;..
+: 1447587273:0;cd sample_app
+: 1447587277:0;rails s
+: 1447587337:0;zsh
+: 1447587340:0;rails s
+: 1447587363:0;zsh
+: 1447587368:0;rails s
+: 1447587390:0;rvm use ruby-2.3.3
+: 1447587424:0;ruby -v
+: 1447587435:0;rvm 
+: 1447587469:0;rvm repair
+: 1447587478:0;rvm wrappers
+: 1447587490:0;rvm repair all
+: 1447587500:0;ruby -v
+: 1447587507:0;rvm use
+: 1447587511:0;rvm use help
+: 1447587515:0;rvm use --help
+: 1447587551:0;rvm list
+: 1447587575:0;rvm --default
+: 1447587583:0;rvm list
+: 1447587613:0;rvm alias create default ruby-2.2.3
+: 1447587620:0;ruby -v
+: 1447587726:0;rvm --default use ruby-2.2.3
+: 1447587751:0;/bin/bash --login
+: 1447587780:0;ruby -v
+: 1447587785:0;/bin/bash --login
+: 1447587879:0;rm -f ~/.zcompdump*
+: 1447587882:0;zsh
+: 1447587892:0;ruby -v
+: 1447587896:0;rvm --default use ruby-2.2.3
+: 1447588043:0;zsh
+: 1447588061:0;rvm --default use ruby-2.2.3
+: 1447588074:0;gem pristine nokogiri 
+: 1447588092:0;..
+: 1447588095:0;cd sample_app
+: 1447588100:0;rails s
+: 1447588130:0;ruby -V
+: 1447588135:0;ruby -v
+: 1447588142:0;which ruby
+: 1447588154:0;zsh
+: 1447588162:0;which ruby
+: 1447588168:0;rails s
+: 1447588213:0;rails s 2> error.txt && subl error.txt
+: 1447588232:0;rails s
+: 1447588238:0;rails s 2> error.txt && subl error.txt
+: 1447588259:0;ls
+: 1447588268:0;subl error.txt
+: 1447588299:0;bundle install --without production
+: 1447588429:0;which java
+: 1447588442:0;ls
+: 1447588468:0;git branch
+: 1447588484:0;git checkout -b static-pages
+: 1447588491:0;ls
+: 1447588547:0;rails g controller StaticPages home help
+: 1447588648:0;tnew 1
+: 1447588671:0;gtrails
+: 1447588673:0;..
+: 1447588679:0;cd Angular
+: 1447588681:0;ls
+: 1447588725:0;..
+: 1447588730:0;vim Angular
+: 1447588906:0;gt_loc
+: 1447588908:0;ls
+: 1447588914:0;dir Lab
+: 1447588925:0;chmod 777 Lab
+: 1447588930:0;sudo chmod 777 Lab
+: 1447588936:0;dir Lab
+: 1447588946:0;cd angular
+: 1447588956:0;cd Lab/angular
+: 1447588967:0;sudo chmod 777 Lab/*
+: 1447588977:0;dir Lab/angular
+: 1447589080:0;ln -s /home/henry/Documents/Angular /var/www/html/Angular
+: 1447589086:0;sudo ln -s /home/henry/Documents/Angular /var/www/html/Angular
+: 1447589094:0;ls
+: 1447589102:0;cd Angular
+: 1447589104:0;ls
+: 1447589173:0;..
+: 1447589188:0;cd Lab/henrymascot/
+: 1447589190:0;ls
+: 1447589201:0;cp favicon.ico ../../Angular
+: 1447589264:0;rails s
+: 1447589331:0;..
+: 1447589335:0;vim sample_app
+: 1447589365:0;rails g controllers StaticPages home help
+: 1447589393:0;rails g controller StaticPages home help
+: 1447589425:0;git status
+: 1447589430:0;git add -A
+: 1447589449:0;git commit -am "Add Static Pages Controller"
+: 1447589473:0;git push -u origin static-pages
+: 1447589529:0;vim sample_app
+: 1447589559:0;.. 
+: 1447589574:0;vim sample_app
+: 1447589585:0;rails s
+: 1447590118:0;rdoc --main rdoc/rdoc.rb
+: 1447590140:0;vim sample_app
+: 1447590228:0;pf
+: 1447590270:0;pf /henry/home/Documents/
+: 1447590511:0;rm -rf docs
+: 1447590517:0;ls
+: 1447590529:0;rm -rf doc
+: 1447590539:0;rake doc:app
+: 1447590561:0;ls
+: 1447591052:0;vim sample_app
+: 1447591499:0;gem pristine sqlite3 --version 1.3.11
+: 1447591545:0;gem pristine json --version 1.8.3
+: 1447591567:0;gem pristine nokogiri --version 1.6.6.2
+: 1447591587:0;tnew 1
+: 1447591622:0;gem pristine byebug --version 8.2.0
+: 1447591647:0;gem pristine iâƒ´‚Restored byebug-8.2.0
+: 1447591649:0;nterception --version 0.5 
+: 1447591658:0;gem pristine ffi --vâƒ´‚ERROR:  While executing gem ... (Gem::Exception)
+: 1447591684:0;gem pristine interception --version 0.5
+: 1447591693:0;gem pristine ffi --version 1.9.10
+: 1447591702:0;gem pristine debug_inspector --version 0.0.2
+: 1447591725:0;gem pristine byebug --version 8.2.0
+: 1447591735:0;gem pristine binding_of_caller --version 0.7.2
+: 1447591745:0;gem pristine interception --version 0.5
+: 1447591756:0;gem pristine ffi --version 1.9.10
+: 1447591766:0;gem pristine byebug --version 8.2.0
+: 1447591780:0;gem pristine binding_of_caller --version 0.7.2
+: 1447591792:0;zsh
+: 1447591861:0;gtrails
+: 1447591868:0;cd sample_app
+: 1447591905:0;gtrails
+: 1447591917:0;cd sample_app
+: 1447591956:0;vim MODELS
+: 1447596478:0;subl MODELS
+: 1447603387:0;..
+: 1447603392:0;cd demo
+: 1447603395:0;pry
+: 1447603418:0;ls
+: 1447603422:0;..
+: 1447603423:0;ls
+: 1447603436:0;cd toy_app
+: 1447603440:0;pry
+: 1447603472:0;ls
+: 1447603481:0;cd app/models
+: 1447603481:0;ls
+: 1447603488:0;pry 
+: 1447603650:0;irb
+: 1447603699:0;rails console
+: 1447603714:0;..
+: 1447603751:0;n = Micropost.find(1)
+: 1447603758:0;n = Micropost.first
+: 1447603765:0;pry
+: 1447604242:0;git status
+: 1447604250:0;git add -A
+: 1447604266:0;git commit -am "Add Image to assets"
+: 1447604271:0;git push
+: 1447604372:0;git status
+: 1447604952:0;git add -A
+: 1447604955:0;git commit -am "Add Image to assets"
+: 1447604962:0;git push
+: 1447605728:0;git add -A
+: 1447605731:0;git commit -am "Add Image to assets"
+: 1447605744:0;git commit -m "Add Image to assets"
+: 1447605769:0;git add -A
+: 1447605771:0;git commit -m "Add Image to assets"
+: 1447605777:0;git push
+: 1447606441:0;git status
+: 1447606451:0;git rm  bank11.png
+: 1447606460:0;git add -A
+: 1447606466:0;git commit -m "Add Image to assets"
+: 1447606475:0;git push
+: 1447608135:0;pkill chromium
+: 1447608164:0;pkill pf
+: 1447608174:0;sudo pkill pf
+: 1447608186:0;sudo pkill subl
+: 1447619449:0;ms rails
+: 1447619455:0;exec rails s
+: 1447619464:0;ls
+: 1447619471:0;vim ext1.rb
+: 1447620704:0;ruby ext1.rb
+: 1447621318:0;rails s
+: 1447621326:0;ruby ext1.rb
+: 1447621335:0;ruby ext1.rb henry
+: 1447635964:0;ms rails 
+: 1447635976:0;exec rails s
+: 1447636791:0;git clone git@github.com:EDDYMENS/control.git
+: 1447636809:0;rm -rf control
+: 1447636923:0;git clone git@github.com:henrino3/control.git
+: 1447636963:0;cd control
+: 1447636994:0;git remote add upstream git@github.com:EDDYMENS/control.git
+: 1447637023:0;git fetch upstream
+: 1447637035:0;git branch
+: 1447637055:0;ls
+: 1447637100:0;git remote -v
+: 1447637116:0;git merge upstream/master
+: 1447637186:0;git checkout -b create_admin_model
+: 1447637195:0;git branch
+: 1447637211:0;cd control
+: 1447637221:0;ls
+: 1447638562:0;cd control
+: 1447638575:0;..
+: 1447638580:0;vim control
+: 1447638701:0;rails s
+: 1447638740:0;bundle install 
+: 1447638798:0;rails s
+: 1447638951:0;rails g scaffold Admin username:string password:string name:string secuirity_question:string secuirity_answer:string email:string phone:string level:string
+: 1447639028:0;vim control
+: 1447639261:0;subl README.md
+: 1447640526:0;subl README.rdoc
+: 1447640624:0;bin/rake db:migrate RAILS_ENV=development
+: 1447641707:0;rails g scaffold Bank name:string type:string reg_no:string founded:date headquarters:string ceo:string services:string email:string website:string logo_url:string 
+: 1447641720:0;bin/rake db:migrate RAILS_ENV=development
+: 1447641732:0;vim control
+: 1447642569:0;pry
+: 1447655090:0;rails c
+: 1447655317:0;dir /henry/home/Documents | grep error
+: 1447655348:0;dir /home/henry/Documents | grep error
+: 1447655357:0;rails c
+: 1447655416:0;dir /home/henry/Documents | grep error
+: 1447655424:0;dir /home/henry/Documents | less
+: 1447655563:0;git checkout -b henry_complete
+: 1447655663:0;git commit -am "Scaffold Admin and Bank Entities"
+: 1447655694:0;git push origin henry_complete
+: 1447659608:0;ms rails
+: 1447659616:0;exec rails s
+: 1447663264:0;pkill chromium
+: 1447663282:0;pkill subl
+: 1447667878:0;cd control
+: 1447667881:0;ls
+: 1447667896:0;git remote -v
+: 1447667924:0;git checkout master
+: 1447667946:0;git pull upstream master
+: 1447668043:0;ls
+: 1447668049:0;..
+: 1447668052:0;vim control
+: 1447668282:0;cd control
+: 1447668290:0;bin/rails s
+: 1447668355:0;cd control
+: 1447668380:0;git status
+: 1447668430:0;git status | tee error.txt
+: 1447668440:0;subl error.txt
+: 1447668473:0;git add -A
+: 1447668515:0;git commit -m "Add Admin and Bank Files"
+: 1447668531:0;git push origin master
+: 1447669545:0;tnew 1
+: 1447669563:0;gtrails
+: 1447669567:0;ls
+: 1447669574:0;cd demo
+: 1447669576:0;..
+: 1447669582:0;cd demo/app
+: 1447669584:0;...
+: 1447669587:0;vim demo
+: 1447669617:0;ls
+: 1447669621:0;gtrails
+: 1447669623:0;cd demo
+: 1447669626:0;ez
+: 1447669694:0;gtrails && cd demo 
+: 1447669696:0;zsh
+: 1447669709:0;brails s
+: 1447669722:0;bundle install 
+: 1447669731:0;zsh
+: 1447669747:0;gem pristine
+: 1447669766:0;gem pristine gem-wrappers
+: 1447669779:0;gem pristine gem-wrappers --version 1.2.7
+: 1447669843:0;vim demo
+: 1447669943:0;ez
+: 1447669986:0;brake db:migrate
+: 1447669988:0;zsh
+: 1447670035:0;gem pristine byebug --version 8.0.1
+                                : 1447670371:0;ms rails
+: 1447670428:0;mv .zsh_history .zsh_history2
